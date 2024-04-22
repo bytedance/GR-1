@@ -58,7 +58,7 @@ If you find this code useful in your work, please consider citing
   title={Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation},
   author={Wu, Hongtao and Jing, Ya and Cheang, Chilam and Chen, Guangzeng and Xu, Jiafeng and Li, Xinghang and Liu, Minghuan and Li, Hang and Kong, Tao},
   booktitle={International Conference on Learning Representations},
-  year={2023}
+  year={2024}
 }
 ```
 
